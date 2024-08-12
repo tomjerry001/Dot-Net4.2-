@@ -1,0 +1,10 @@
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.exe.config
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.exe
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Camp4MachineTest.pdb
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.csproj.AssemblyReference.cache
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.csproj.CoreCompileInputs.cache
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.exe
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4MachineTest.pdb
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Newtonsoft.Json.dll
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\bin\Debug\Newtonsoft.Json.xml
+D:\Assigment1\ConsoleAppInheritanceDemo\Camp4MachineTest\obj\Debug\Camp4Mac.6346E76F.Up2Date
