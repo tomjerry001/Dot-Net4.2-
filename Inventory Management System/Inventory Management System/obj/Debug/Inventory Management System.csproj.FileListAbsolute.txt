@@ -1,0 +1,10 @@
+D:\Assigment1\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+D:\Assigment1\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+D:\Assigment1\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+D:\Assigment1\Inventory Management System\Inventory Management System\bin\Debug\SqlServerConnectionLibrary.dll
+D:\Assigment1\Inventory Management System\Inventory Management System\bin\Debug\SqlServerConnectionLibrary.pdb
+D:\Assigment1\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+D:\Assigment1\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+D:\Assigment1\Inventory Management System\Inventory Management System\obj\Debug\Inventor.6904B46F.Up2Date
+D:\Assigment1\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+D:\Assigment1\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
