@@ -1,0 +1,10 @@
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\bin\Debug\LibrarayManagementSsyrem.exe.config
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\bin\Debug\LibrarayManagementSsyrem.exe
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\bin\Debug\LibrarayManagementSsyrem.pdb
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\bin\Debug\SqlServerConnectionLibrary.dll
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\bin\Debug\SqlServerConnectionLibrary.pdb
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\obj\Debug\LibrarayManagementSystem.csproj.AssemblyReference.cache
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\obj\Debug\LibrarayManagementSystem.csproj.CoreCompileInputs.cache
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\obj\Debug\Libraray.1624DF46.Up2Date
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\obj\Debug\LibrarayManagementSsyrem.exe
+D:\Assigment1\LibrarayManagementSsyrem\LibrarayManagementSsyrem\obj\Debug\LibrarayManagementSsyrem.pdb
