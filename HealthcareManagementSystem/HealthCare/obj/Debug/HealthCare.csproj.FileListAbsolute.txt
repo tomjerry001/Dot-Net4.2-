@@ -1,0 +1,10 @@
+D:\Assigment1\HealthcareManagementSystem\HealthCare\bin\Debug\HealthCare.exe.config
+D:\Assigment1\HealthcareManagementSystem\HealthCare\bin\Debug\HealthCare.exe
+D:\Assigment1\HealthcareManagementSystem\HealthCare\bin\Debug\HealthCare.pdb
+D:\Assigment1\HealthcareManagementSystem\HealthCare\bin\Debug\SqlServerConnectionLibrary.dll
+D:\Assigment1\HealthcareManagementSystem\HealthCare\bin\Debug\SqlServerConnectionLibrary.pdb
+D:\Assigment1\HealthcareManagementSystem\HealthCare\obj\Debug\HealthCare.csproj.AssemblyReference.cache
+D:\Assigment1\HealthcareManagementSystem\HealthCare\obj\Debug\HealthCare.csproj.CoreCompileInputs.cache
+D:\Assigment1\HealthcareManagementSystem\HealthCare\obj\Debug\HealthCare.csproj.Up2Date
+D:\Assigment1\HealthcareManagementSystem\HealthCare\obj\Debug\HealthCare.exe
+D:\Assigment1\HealthcareManagementSystem\HealthCare\obj\Debug\HealthCare.pdb
